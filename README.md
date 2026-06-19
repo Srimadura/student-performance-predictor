@@ -1,31 +1,36 @@
-# student-performance-predictor
-Machine Learning project to predict student academic performance
- 
+# Student Performance Predictor
 
-## Project Description
-This project predicts student performance using a Decision Tree Machine Learning model.
+## Project Overview
+This project predicts student performance using Machine Learning techniques based on academic factors such as attendance, study hours, and previous marks.
 
-## Features Used
+## Dataset Features
 - Attendance
-- Study Hours
-- Previous Marks
+- StudyHours
+- PreviousMarks
 
-## Model
-Decision Tree Classifier
+## Target Variable
+- Performance (Good / Average / Poor)
 
-## Sample Prediction
+## Models Implemented
+1. Logistic Regression
+2. Decision Tree Classifier
 
-Input:
+## Sample Input
 Attendance = 85
-Study Hours = 4
-Previous Marks = 75
 
-Output:
+StudyHours = 4
+
+PreviousMarks = 75
+
+## Sample Output
 Predicted Performance: Good
 
-## Technologies
+## Technologies Used
 - Python
 - Pandas
 - Scikit-learn
+
+## Project Goal
+To compare the performance of Logistic Regression and Decision Tree algorithms for student performance prediction.
 
 
