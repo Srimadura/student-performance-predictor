@@ -10,7 +10,7 @@ model = DecisionTreeClassifier()
 
 model.fit(X,y)
 
-prediction = model.predict([[85,4,75]])
+prediction = model.predict([[90,5,85]])
 
 print("Predicted Performance:",prediction[0])
 
