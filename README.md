@@ -28,10 +28,4 @@ Predicted Performance: Good
 - Pandas
 - Scikit-learn
 
-- Student-Performance-Predictor/
-│
-├── dataset.csv
-├── predictor.py
-├── requirements.txt
-├── README.md
-└── output.png
+
