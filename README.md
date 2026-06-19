@@ -16,11 +16,11 @@ This project predicts student performance using Machine Learning techniques base
 2. Decision Tree Classifier
 
 ## Sample Input
-Attendance = 85
+Attendance = 90
 
-StudyHours = 4
+StudyHours = 5
 
-PreviousMarks = 75
+PreviousMarks = 85
 
 ## Sample Output
 Predicted Performance: Good
