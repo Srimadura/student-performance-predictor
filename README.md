@@ -1,7 +1,6 @@
 # student-performance-predictor
 Machine Learning project to predict student academic performance
  
-# Student Performance Predictor
 
 ## Project Description
 This project predicts student performance using a Decision Tree Machine Learning model.
