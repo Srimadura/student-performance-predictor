@@ -11,6 +11,6 @@ model = LogisticRegression()
 
 model.fit(X,y)
 
-prediction = model.predict([[22,2,5]])
+prediction = model.predict([[90, 5, 85]])
 
 print("Predicted Performance on the given academic data:",prediction[0])
