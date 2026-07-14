@@ -1,4 +1,4 @@
-Student AI Advisor
+## Student AI Advisor
 
 A lightweight, interactive Streamlit application designed for students to track their weekly academic performance, log habits, and receive instant, automated AI-driven feedback. The application maintains a local data history, allowing you to easily view trends or correct past entry mistakes.
 
