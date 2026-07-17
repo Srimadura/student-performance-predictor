@@ -1,0 +1,22 @@
+{
+    "STU1001": {
+        "Week 1": {
+            "attendance": 74,
+            "study_hours": 2,
+            "quiz": 20,
+            "assignment": 10,
+            "exam": 0,
+            "feedback": "english is so easy\n"
+        }
+    },
+    "STU1002": {
+        "Week 3": {
+            "attendance": 85,
+            "study_hours": 10,
+            "quiz": 17,
+            "assignment": 5,
+            "exam": 41,
+            "feedback": "Physics is time consuming\n"
+        }
+    }
+}
